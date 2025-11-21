@@ -8,5 +8,5 @@ Learning Python,Java, JavaScript, and building projects step-by-step!
 - Python | ML
 - HTML | CSS | JavaScript
 - Git & GitHub | Open-source
-📫 How to reach me: srishtibharti14406@gmail.com
+📫 How to reach me: srishti.bharti.dev@gmail.com
 
