@@ -2,7 +2,7 @@
 I'm exploring AI, ML, and open-source.  
 Learning Python,Java, JavaScript, and building projects step-by-step!  
 
-🌱 Currently learning: Machine Learning, Git, Web Dev  
+🌱 Currently learning: Machine Learning, Web Dev  
 💡 Goals: Contribute to open-source | GSoC  
 🛠 Tech Stack:
 - Python | ML
